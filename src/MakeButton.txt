@@ -1,0 +1,8 @@
+grid[0] = new Button(false, 1, 1);
+grid[1] = new Button(false, 5, 1);
+grid[2] = new Button(false, 2, 1);
+grid[3] = new Button(false, 5, 2);
+grid[4] = new Button(false, 2, 2);
+grid[5] = new Button(false, 2, 4);
+grid[6] = new Button(false, 4, 4);
+grid[7] = new Button(false, 4, 5);

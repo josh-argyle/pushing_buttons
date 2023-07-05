@@ -1,0 +1,8 @@
+pushed blue circle
+pushed blue diamond
+unpushed blue star
+pushed yellow circle
+pushed yellow star
+unpushed red circle
+pushed red diamond
+pushed red star

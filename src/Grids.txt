@@ -1,0 +1,31 @@
+Q8
+pushed blue circle
+pushed blue diamond
+unpushed blue star
+pushed yellow circle
+pushed yellow star
+unpushed red button
+pushed red diamond
+pushed red star
+
+Q17
+unpushed blue circle
+unpushed yellow square
+pushed orange circle
+pushed orange diamond
+pushed purple star
+pushed purple square
+pushed green diamond
+pushed green triangle
+pushed green star
+unpushed red triangle
+
+Q24
+unpushed green diamond
+unpushed purple diamond
+unpushed yellow diamond
+unpushed purple star
+unpushed yellow star
+unpushed yellow square
+unpushed blue square
+unpushed blue cross
